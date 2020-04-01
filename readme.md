@@ -13,3 +13,4 @@
 <p>Todos mis amigos me dicen Gabito y la gente que no me conoce piensa que me llamo Gabriel, si, es mi apellido no un apodo, pero cumple esa función.</p>
 <p>Por último les dejo una foto mia comiendo un pan con dulce de leche. Saludos y espero que podamos volver a la facultad pronto.</p>
 <img src="foto.jpg" alt="">
+<p> Edit: la foto se ve mucho mas grande de lo que esperaba pero bueno. </p>
